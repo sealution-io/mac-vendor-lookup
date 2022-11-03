@@ -14,9 +14,9 @@
         "php": "^8.0"
     },
     "require-dev": {
-        "illuminate/console": "^v8",
-        "illuminate/database": "^8.48",
-        "illuminate/filesystem": "^8.48",
+        "illuminate/console": "^v9",
+        "illuminate/database": "^9",
+        "illuminate/filesystem": "^9",
         "pestphp/pest": "^1.8"
     },
     "autoload": {
